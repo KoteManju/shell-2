@@ -1,0 +1,13 @@
+Sun Mar 24 06:21:51 Mongo DB : starting : pid = 20677 port = 27017 dbpath = /usr/local/system/mongodb/data master = 0 slave = 0  32-bit 
+
+** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+**       see http://blog.mongodb.org/post/137788967/32-bit-limitations for more
+
+Sun Mar 24 06:21:51 db version v1.4.4, pdfile version 4.5
+Sun Mar 24 06:21:51 git version: 9dcac11bd72c7cb34ca278313f033efcdd4908eb
+Sun Mar 24 06:21:51 sys info: Linux domU-12-31-39-01-70-B4 2.6.21.7-2.fc8xen #1 SMP Fri Feb 15 12:39:36 EST 2008 i686 BOOST_LIB_VERSION=1_37
+Sun Mar 24 06:21:51 waiting for connections on port 27017
+Sun Mar 24 06:21:51 web admin interface listening on port 28017
+Sun Mar 24 06:22:27 connection accepted from 127.0.0.1:36499 #1
+Sun Mar 24 06:22:27 end connection 127.0.0.1:36499
+Sun Mar 24 06:22:27 connection accepted from 127.0.0.1:36500 #2
