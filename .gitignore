@@ -1,1 +1,2 @@
 mac/redis-2.4.13/
+*.rdb
