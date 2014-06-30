@@ -7,3 +7,5 @@ cd git-1.6.1
 ./configure --prefix=/usr/local
 make
 sudo make install
+sudo cp `which git` /usr/bin/
+
