@@ -3,4 +3,5 @@ centos/git-1.6.1/
 centos/git-1.8.2.3/
 centos/nginx-1.0.10/
 centos/pcre-7.9/
+mac/redis-3.0.7/
 *.rdb
