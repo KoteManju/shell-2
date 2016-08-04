@@ -1,10 +1,11 @@
 #!/bin/bash
+# Linode 服务器开机自启动服务
 
 source /usr/local/rvm/environments/ruby-1.9.2-p180
 
 # huianxinao.com
 cd /usr/local/system/www/project_manager
-thin start -C /etc/thin/project_manager_thin.yml
+bundle exec thin restart -C /etc/thin/project_manager_thin.yml
 
 # wxianfeng.com
 source /usr/local/rvm/environments/ruby-1.8.7-p334 
